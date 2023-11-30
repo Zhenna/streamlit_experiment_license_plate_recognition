@@ -1,0 +1,4 @@
+streamlit
+yolov5
+pytesseract
+easyocr
