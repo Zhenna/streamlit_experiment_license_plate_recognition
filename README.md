@@ -32,4 +32,4 @@ pip install -r requirements.txt
 
 ## To learn how to develop a similar web app, please refer to my Medium article below.
 
-Build a License Plate Recognition App using Streamlit.
+[Build a License Plate Recognition App using Streamlit.](https://medium.com/towards-artificial-intelligence/build-a-license-plate-recognition-app-using-streamlit-e9982fa6fd6e)
